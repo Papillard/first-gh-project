@@ -1,0 +1,13 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+  padding: 120px;
+  font-size: 24px;
+  line-height: 1.8;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
